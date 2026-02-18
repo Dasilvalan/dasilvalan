@@ -21,4 +21,5 @@ Pós-graduando em Business Intelligence e graduado em Ciências Contábeis, esto
 ---
 
 ## 📫 Conecte-se comigo:
-[https://www.linkedin.com/in/alan-eduardo-da-silva-b216b6208/]| alaneduardodasilvaa@gmail.com
+https://www.linkedin.com/in/alan-eduardo-da-silva-b216b6208/
+alaneduardodasilvaa@gmail.com
