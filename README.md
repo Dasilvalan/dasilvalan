@@ -1,7 +1,7 @@
 # Olá, eu sou o Alan 👋
 
 ### 🚀 De Contador e Especialista em BI para Engenheiro de Dados
-Pós-graduando em Business Intelligence e graduado em Ciências Contábeis, estou unindo o rigor analítico financeiro com a construção de arquiteturas de dados robustas.
+Pós-graduado em Business Intelligence e graduado em Ciências Contábeis, estou unindo o rigor analítico financeiro com a construção de arquiteturas de dados robustas.
 
 ---
 
